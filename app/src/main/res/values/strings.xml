@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">second_lab</string>
+    <string name="bin_text">Переведенное число</string>
+    <string name="dec_text">Ваше число</string>
+    <string name="btn_text">Перевести</string>
+    <string name="from">Из</string>
+    <string name="to">В</string>
+    <string name="ten">Десятичная</string>
+    <string name="two">Двоичная</string>
+    <string name="sixteen">Шестнадцатиричная</string>
+</resources>
